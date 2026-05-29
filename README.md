@@ -1,2 +1,2 @@
 # oficina-reconhecimento-facial-nodejs
-APP de reconhecimento facial
+APP de Reconhecimento Facial
